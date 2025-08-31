@@ -1,0 +1,12 @@
+# Odoo related files
+*.pyc
+__pycache__
+.idea/
+.vscode/
+.DS_Store
+
+# Odoo temporary folders
+/static/dist
+
+# Odoo data
+/data
