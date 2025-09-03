@@ -1,4 +1,4 @@
-from odoo import fields, models
+from odoo import models, fields
 
 class OperatorTask(models.Model):
     _name = 'arm.operator.task'
